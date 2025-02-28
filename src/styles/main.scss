@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.bodyBlog {
+    width: 100%;
+    background-image: linear-gradient(to right, #f9f9f9 , #fafafa);
+}
+
+.dafitiStructureBlog {
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    text-wrap: pretty;
+    max-width: 760px;
+
+    h1,
+    h2,
+    h3,
+    h4 {
+        font-family: "Poppins", sans-serif;
+        font-style: normal;
+    }
+
+    h1 {
+        font-size: 2.4rem;
+        font-weight: 600;
+        line-height: 1.2;
+        margin: 1rem 0;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin: 1rem 0;
+        line-height: 1.2;
+    }
+
+    h3 {
+        font-size: 1.6rem;
+        font-weight: 400;
+        margin: 1rem 0;
+        line-height: 1.2;
+    }
+
+    h4 {
+        font-size: 1.3rem;
+        font-weight: 400;
+        margin: 1rem 0;
+        line-height: 1.2;
+    }
+
+    b, strong {
+        font-weight: 500;
+    }
+    
+    p, label, li, label {
+        font-family: "Poppins", sans-serif;
+        font-weight: 200;
+        font-style: normal;
+        font-size: 1rem;
+        margin: 1rem 0;
+        @media (max-width: 1050px) {
+            
+        }
+        @media (max-width: 768px) {
+            
+        }
+        @media (max-width: 500px) {
+            
+        }
+    }
+
+    ul {
+        padding-left: 2rem;
+    }
+
+    ul li {
+        margin: 0;
+    }
+
+    h1 + img {
+        margin: 1rem 0 0;
+    }
+
+    img + p {
+        margin: 1rem 0 0;
+    }
+
+    p + img {
+        margin: 1rem 0 0;
+    }
+
+    table {
+        font-family: "Poppins", sans-serif;
+        font-size: .9rem;
+        border-collapse: collapse;
+        width: 100%;
+        margin: 1rem 0;
+      
+        th, td {
+          border: .1rem solid #000000;
+          padding: 8px;
+          text-align: left;
+        }
+      
+        tr:nth-child(odd) {
+          background-color: #f2f2f2; // Cor de fundo para linhas ímpares
+        }
+      
+        tr:nth-child(even) {
+          background-color: #e6e6e6; // Cor de fundo para linhas pares
+        }
+      }
+
+    a {
+        color: #c36;
+        text-decoration: none;
+        font-weight: 300;
+        p {
+            font-family: "Poppins", sans-serif;
+            font-weight: 800;
+            font-style: normal;
+        }
+    }
+
+    i {
+        font-style: italic;
+        b {
+            font-weight: bold;
+        }
+    }
+
+    .mt1 {
+        margin: 1rem 0 0;
+    }
+
+    section {
+        padding: 0 20px;
+    }
+
+    img {
+        width: 100%;
+    }
+}
