@@ -15,6 +15,8 @@ npm install: Instala as dependências do projeto.
 npm run prod: Compila os arquivos e gera a pasta dist.
 npm run dev: Inicia o modo de desenvolvimento com observação de mudanças e compilação automática.
 
-prompt chat: Transforme o seguinte HTML em PUG, envolvendo os textos e tabelas em section, e apenas imagens e videos fora da section e nas imagens adicionar uma classe chamada .imgSmall, apenas na primeira que nao. mantenha os links externos, bold e strong. pode criar mais de uma section para manter a ordem do conteudo: 
+prompt chat: Transforme o seguinte HTML em PUG simples eliminando todas classes com as seguintes regras:
 
-
+- Todos os elementos a exceção das imagens e vídeos deverão estar abaixo de um <section> e sempre que uma imagem ou vídeo aparecer, deve-se fechar a tag <section> e após o elemento abrir uma nova.
+- Todas as imagens devem conter uma classe .imgSmall, com exceção da primeira imagem da página. E lembre que elas não podem estar dentro de uma <section>.
+- Mantenha os links externos e peso da fonte que estejam em tags como <b> e <strong>.
