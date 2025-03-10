@@ -136,7 +136,7 @@
     }
 
     .mt1 {
-        margin: 1rem 0 0;
+        margin-top: 1rem !important;
     }
 
     section {
@@ -144,6 +144,15 @@
     }
 
     img {
+        width: 100%;
+    }
+
+    .imgSmall {
+        width: clamp(280px, 40%, 100%);
+        margin: 0 auto;
+    }
+
+    iframe {
         width: 100%;
     }
 }
