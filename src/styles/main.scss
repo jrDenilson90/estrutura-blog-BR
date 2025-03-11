@@ -1,8 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
 .bodyBlog * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scroll-behavior: smooth;
 }
 
 .bodyBlog {
@@ -143,5 +146,20 @@
     iframe {
         width: 100%;
         aspect-ratio: 1/.55;
+    }
+
+    .linkAncor {
+        width: fit-content;
+        background-color: #000;
+        position: sticky;
+        bottom: 1rem;
+        margin: 0 auto;
+        border-radius: 5rem;
+
+        p {
+            color: #ffffff;
+            padding: .5rem 2rem;
+            font-weight: 500;
+        }
     }
 }
