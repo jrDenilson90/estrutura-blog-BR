@@ -11,7 +11,7 @@ html {
 .bodyBlog {
     width: 100%;
     background-image: linear-gradient(to right, #f9f9f9 , #fafafa);
-    padding: 10px 0 30px;
+    padding: 10px 0 40px;
 }
 
 .dafitiStructureBlog {
@@ -155,11 +155,17 @@ html {
         bottom: 1rem;
         margin: 0 auto;
         border-radius: 5rem;
+        transition-duration: .3s;
 
         p {
             color: #ffffff;
-            padding: .5rem 2rem;
+            padding: .7rem 2rem;
             font-weight: 500;
+        }
+
+        &:hover {
+            background-color: #2f2f2f;
+            text-decoration: none !important;
         }
     }
 }
