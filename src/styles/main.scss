@@ -1,4 +1,4 @@
-* {
+.bodyBlog * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -8,6 +8,7 @@
 .bodyBlog {
     width: 100%;
     background-image: linear-gradient(to right, #f9f9f9 , #fafafa);
+    padding: 10px 0 30px;
 }
 
 .dafitiStructureBlog {
@@ -66,12 +67,18 @@
         // margin: 1rem 0;
     }
 
+    a {
+        font-size: inherit;
+    }
+
     ol {
         padding-left: 1rem;
+        list-style: inherit;
     }
 
     ul {
         padding-left: 2rem;
+        list-style: inherit;
     }
 
     ul li {
