@@ -2,19 +2,24 @@
 //     // Definindo o JSON diretamente no script
 //     const materias = [
 //         {
-//             "titulo": "Tênis Para Trabalhar: Modelos Resistentes e Confortáveis | Dafiti",
+//             "titulo": "Tênis para trabalhar: descubra os 3 melhores tipos",
 //             "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_11_14_55_22_tenis-para-trabalhar.png",
 //             "link": "https://www.dafiti.com.br/moda/tenis-para-trabalhar/"
 //         },
 //         {
-//             "titulo": "Vestido Vermelho: Como Combinar com a Cor do Sapato | Dafiti",
+//             "titulo": "Vestido vermelho combina com qual cor de sapato?",
 //             "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_11_15_07_54_vestido-vermelho-combina-com-qual-cor-de-sapato-topo.jpg",
 //             "link": "https://www.dafiti.com.br/moda/vestido-vermelho-combina-com-qual-cor-de-sapato/"
 //         },
 //         {
-//             "titulo": "Como Limpar Tênis Branco: Passo a Passo e Dicas | Dafiti",
+//             "titulo": "Como limpar tênis branco: veja truques simples e infalíveis",
 //             "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_11_15_16_28_bannon-morrissy-FiPXar82v1w-unsplash-scaled-e1685644315531.jpg",
 //             "link": "https://www.dafiti.com.br/moda/como-limpar-tenis-branco/"
+//         },
+//         {
+//             "titulo": "Tipos de Calça Jeans Masculina: estilos essenciais para o seu Guarda-Roupa",
+//             "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_11_15_25_24_tipos-de-calca-jeans-masculina.png",
+//             "link": "https://www.dafiti.com.br/moda/tipos-de-calca-jeans-masculina/"
 //         }
 //         // Adicione mais matérias conforme necessário
 //     ];
