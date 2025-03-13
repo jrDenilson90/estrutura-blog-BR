@@ -175,6 +175,11 @@ const materias = [
         "link": "https://www.dafiti.com.br/moda/rasteirinha-que-esta-na-moda/"
     },
     {
+        "titulo": "Conheça os tipos de chinelo e saiba como escolher!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_17_05_14_tipos-de-chinelo-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/conheca-os-tipos-de-chinelo/"
+    },
+    {
         "titulo": "Como estender camiseta no varal: dicas para facilitar!",
         "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_16_54_04_topo-como-estender-camiseta-no-varal.jpg",
         "link": "https://www.dafiti.com.br/moda/como-estender-camiseta-no-varal/"
