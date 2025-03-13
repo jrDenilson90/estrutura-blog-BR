@@ -195,6 +195,7 @@ html {
             text-decoration: none;
             cursor: pointer;
             transition-duration: .3s;
+            width: calc(100% / 3);
             @media (max-width: 758px) {
                 width: 280px;
             }

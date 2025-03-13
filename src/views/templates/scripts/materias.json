@@ -18,6 +18,221 @@ const materias = [
         "titulo": "Tipos de Calça Jeans Masculina: estilos essenciais para o seu Guarda-Roupa",
         "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_11_15_25_24_tipos-de-calca-jeans-masculina.png",
         "link": "https://www.dafiti.com.br/moda/tipos-de-calca-jeans-masculina/"
+    },
+    {
+        "titulo": "Qual sandália usar com vestido longo: melhores modelos e dicas de combinação",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_11_17_04_47_qual-sandalia-usar-com-vestido-longo-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/qual-sandalia-usar-com-vestido-longo/"
+    },
+    {
+        "titulo": "Descubra como combinar vestido longo com casaco",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_08_44_35_Topo-vestido-longo-com-casaco.jpg",
+        "link": "https://www.dafiti.com.br/moda/vestido-longo-casaco/"
+    },
+    {
+        "titulo": "Como colocar cadarço no tênis? Veja 4 formas de convencional",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_09_14_45_como-colocar-cadarco-no-tenis.png",
+        "link": "https://www.dafiti.com.br/moda/como-colocar-cadarco-no-tenis/"
+    },
+    {
+        "titulo": "Tênis para usar com saia: veja 5 ideias para se inspirar!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_13_21_38_tenis-para-usar-com-saia.png",
+        "link": "https://www.dafiti.com.br/moda/tenis-para-usar-com-saia/"
+    },
+    {
+        "titulo": "Tipos de boné: conheça os diferentes modelos",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_11_13_39_tipos-de-bone-capa.png",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-bone/"
+    },
+    {
+        "titulo": "5 Looks com Mocassim Tratorado para você arrasar",
+        "img": "https://blog.dafiti.com.br/wp-content/uploads/2023/05/looks-com-mocassim-tratorado-capa.png",
+        "link": "https://www.dafiti.com.br/moda/looks-com-mocassim-tratorado/"
+    },
+    {
+        "titulo": "Descubra como limpar boné branco e aprenda a conservá-lo!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_11_33_06_como-limpar-bone-branco-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-limpar-bone-branco/"
+    },
+    {
+        "titulo": "Looks com Calça Jeans e Tênis: dicas para arrasar com essa dupla",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_11_41_58_looks-com-calca-jeans-e-tenis.png",
+        "link": "https://www.dafiti.com.br/moda/looks-com-calca-jeans-e-tenis/"
+    },
+    {
+        "titulo": "Você sabe qual a diferença entre loafer e mocassim?",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_11_54_50_diferenca-entre-loafer-e-mocassim-1.png",
+        "link": "https://www.dafiti.com.br/moda/diferenca-entre-loafer-e-mocassim/"
+    },
+    {
+        "titulo": "Blusas para usar com calça jogger: veja as melhores peças para desenvolver uma combinação incrível!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_13_35_31_blusas-para-usar-com-calca-jogger.png",
+        "link": "https://www.dafiti.com.br/moda/blusas-para-usar-com-calca-jogger/"
+    },
+    {
+        "titulo": "Como limpar chinelo branco: dicas e passo a passo!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_13_57_02_como-limpar-chinelo-branco-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-limpar-chinelo-branco-dicas-e-passo-a-passo/"
+    },
+    {
+        "titulo": "Conheça os principais tipos de vestidos longos",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_14_13_12_tipos-de-vestidos-longos-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-vestidos-longos/"
+    },
+    {
+        "titulo": "Como lavar óculos de sol: dicas para higienizar os acessórios!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_14_21_28_como-lavar-oculos-de-sol-topo-1.jpg",
+        "link": "Como lavar óculos de sol: dicas para higienizar os acessórios!"
+    },
+    {
+        "titulo": "Como limpar sandália branca? Confira dicas!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_14_34_23_como-limpar-sandalia-branca-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-limpar-sandalia-branca/"
+    },
+    {
+        "titulo": "5 combinações de como usar vestido com blusa por baixo",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_12_14_57_15_vestido-com-blusa-por-baixo-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/vestido-com-blusa-por-baixo/"
+    },
+    {
+        "titulo": "Modelo de blusa de tecido: confira 6 melhores tipos e arrase no seu look!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_09_32_56_modelo-de-blusa-de-tecido.png",
+        "link": "https://www.dafiti.com.br/moda/modelo-de-blusa-de-tecido/"
+    },
+    {
+        "titulo": "Tipos de chuteira: escolha o ideal para um craque",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_09_48_16_tipos-de-chuteira-capa-1.png",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-chuteira/"
+    },
+    {
+        "titulo": "Vestido com rasteirinha: veja como usar essa combinação",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_09_59_02_vestido-com-rasteirinha-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/vestido-com-rasteirinha/"
+    },
+    {
+        "titulo": "Como limpar boné: dicas para higienizar e principais modelos!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_10_08_21_como-limpar-bone-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-limpar-bone/"
+    },
+    {
+        "titulo": "Mocassim com Meia: dicas de estilo e combinações perfeitas",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_11_18_42_mocassim-com-meia.png",
+        "link": "https://www.dafiti.com.br/moda/mocassim-com-meia/"
+    },
+    {
+        "titulo": "Como fazer barra de calça jeans: um guia em 10 passos",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_12_07_16_como-fazer-barra-de-calca-jeans-1.png",
+        "link": "https://www.dafiti.com.br/moda/como-fazer-barra-de-calca-jeans/"
+    },
+    {
+        "titulo": "Conheça os tipos de bonés para cada rosto e escolha o seu!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_14_07_06_tipos-de-bones-para-cada-rosto-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-bones-para-cada-rosto/"
+    },
+    {
+        "titulo": "Como dobrar blusa de frio? Confira o passo a passo completo",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_14_59_53_como-dobrar-blusa-de-frio.png",
+        "link": "https://www.dafiti.com.br/moda/como-dobrar-blusa-de-frio/"
+    },
+    {
+        "titulo": "Como limpar sandália: principais modelos e dicas para higienizá-los!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_15_09_17_como-limpar-sandalia-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-limpar-sandalia/"
+    },
+    {
+        "titulo": "Como customizar camiseta: passo a passo e ideias criativas!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_15_33_11_como-customizar-camiseta-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-customizar-camiseta/"
+    },
+    {
+        "titulo": "Veja 7 ideias de looks de vestido com tênis branco",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_15_56_29_vestido-com-tenis-branco-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/vestido-com-tenis-branco/"
+    },
+    {
+        "titulo": "Tipos de camiseta: veja quais são os principais modelos",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_16_11_18_tipos-de-camiseta-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-camiseta/"
+    },
+    {
+        "titulo": "Como usar boné? Veja dicas incríveis para os seus looks!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_16_22_35_como-usar-bone-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-usar-bone/"
+    },
+    {
+        "titulo": "Dicas de como usar camiseta larga feminina",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_16_32_15_como-usar-camiseta-larga-feminina-topo-1.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-usar-camiseta-larga-feminina/"
+    },
+    {
+        "titulo": "Tipos de Calça Jeans Feminina: descubra as Opções Perfeitas para o seu Estilo",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_16_50_55_tipos-de-calca-jeans-feminina.png",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-calca-jeans-feminina/"
+    },
+    {
+        "titulo": "Rasteirinha que está na moda: conheça 6 modelos incríveis",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_13_16_57_32_rasteirinha-que-esta-na-moda-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/rasteirinha-que-esta-na-moda/"
+    },
+    {
+        "titulo": "Como estender camiseta no varal: dicas para facilitar!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_16_54_04_topo-como-estender-camiseta-no-varal.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-estender-camiseta-no-varal/"
+    },
+    {
+        "titulo": "Blazer com calça jeans: a dupla perfeita para looks incríveis",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_16_39_46_blazer-com-calca-jeans.png",
+        "link": "https://www.dafiti.com.br/moda/blazer-com-calca-jeans/"
+    },
+    {
+        "titulo": "Coturno com Calça Jeans: um look despojado e estiloso",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_16_14_44_coturno-com-calca-jeans.png",
+        "link": "https://www.dafiti.com.br/moda/coturno-com-calca-jeans/"
+    },
+    {
+        "titulo": "Coturno com Calça Jeans: um look despojado e estiloso",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_16_14_44_coturno-com-calca-jeans.png",
+        "link": "https://www.dafiti.com.br/moda/coturno-com-calca-jeans/"
+    },
+    {
+        "titulo": "Óculos de sol da moda: conheça 8 modelos que são tendências!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_15_54_25_topo-oculos-de-sol-da-moda.jpg",
+        "link": "https://www.dafiti.com.br/moda/oculos-de-sol-da-moda/"
+    },
+    {
+        "titulo": "https://www.dafiti.com.br/moda/tipos-de-shorts-femininos/",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_18_28_05_capa-tipos-de-shorts-femininos.jpg",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-shorts-femininos/"
+    },
+    {
+        "titulo": "4 modelos incríveis de tênis para usar com vestido",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_17_56_27_tenis-para-usar-com-vestido-capa.png",
+        "link": "https://www.dafiti.com.br/moda/tenis-para-usar-com-vestido/"
+    },
+    {
+        "titulo": "Tipos de vestidos: conheça os principais e escolha seu favorito!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_17_43_54_tipos-de-vestidos-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-vestido/"
+    },
+    {
+        "titulo": "Tipos de amarração para vestido: saiba como fazer",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_17_23_00_tipos-de-amarracao-para-vestido-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/tipos-de-amarracao-para-vestido/"
+    },
+    {
+        "titulo": "Ideias de look masculino com chinelo para cada estilo!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_17_08_13_look-masculino-com-chinelo-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/ideias-de-look-masculino-com-chinelo/"
+    },
+    {
+        "titulo": "Blusas alongadas para usar com legging: veja as combinações que estão em alta",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_16_47_52_blusas-alongadas-para-usar-com-legging.png",
+        "link": "https://www.dafiti.com.br/moda/blusas-alongadas-para-usar-com-legging/"
+    },
+    {
+        "titulo": "O que é rasteirinha? Saiba tudo sobre esse calçado tão conhecido!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_15_17_49_topo-o-que-e-rasteirinha.jpg",
+        "link": "https://www.dafiti.com.br/moda/o-que-e-rasteirinha-saiba-tudo-sobre-esse-calcado-tao-conhecido/"
     }
     // Adicione mais matérias conforme necessário
 ];
