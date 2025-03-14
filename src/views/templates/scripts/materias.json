@@ -185,19 +185,24 @@ const materias = [
         "link": "https://www.dafiti.com.br/moda/vestido-com-blazer/"
     },
     {
-        "titulo": "",
-        "img": "",
-        "link": ""
+        "titulo": "Look com camiseta amarela: dicas para garantir as melhores combinações!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_14_09_45_00_topo-look-com-camiseta-amarela_(1).jpg",
+        "link": "https://www.dafiti.com.br/moda/look-com-camiseta-amarela/"
     },
     {
-        "titulo": "",
-        "img": "",
-        "link": ""
+        "titulo": "Como Rasgar Calça Jeans: passo a passo infalível",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_14_09_51_38_como-rasgar-calca-jeans.png",
+        "link": "https://www.dafiti.com.br/moda/como-rasgar-calca-jeans/"
     },
     {
-        "titulo": "",
-        "img": "",
-        "link": ""
+        "titulo": "Como usar boné com cabelo cacheado masculino? Descubra aqui!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_14_10_00_11_como-usar-bone-com-cabelo-cacheado-masculino-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/como-usar-bone-com-cabelo-cacheado-masculino-descubra-aqui/"
+    },
+    {
+        "titulo": "Conheça os tipos de chinelo e saiba como escolher!",
+        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_17_05_14_tipos-de-chinelo-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/conheca-os-tipos-de-chinelo/"
     },
     {
         "titulo": "Como estender camiseta no varal: dicas para facilitar!",
