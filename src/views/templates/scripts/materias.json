@@ -175,9 +175,29 @@ const materias = [
         "link": "https://www.dafiti.com.br/moda/rasteirinha-que-esta-na-moda/"
     },
     {
-        "titulo": "Conheça os tipos de chinelo e saiba como escolher!",
-        "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_13_17_05_14_tipos-de-chinelo-topo.jpg",
-        "link": "https://www.dafiti.com.br/moda/conheca-os-tipos-de-chinelo/"
+        "titulo": "Qual é a diferença entre short e bermuda? Conheça os principais modelos e descubra!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_14_09_07_27_diferenca-entre-short-e-bermuda-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/diferenca-entre-short-e-bermuda/"
+    },
+    {
+        "titulo": "Vestido com blazer: dicas de combinação e ideias para se inspirar!",
+        "img": "https://dafitistatic.dafiti.com.br/cms/2025_03_14_09_16_39_vestido-com-blazer-topo.jpg",
+        "link": "https://www.dafiti.com.br/moda/vestido-com-blazer/"
+    },
+    {
+        "titulo": "",
+        "img": "",
+        "link": ""
+    },
+    {
+        "titulo": "",
+        "img": "",
+        "link": ""
+    },
+    {
+        "titulo": "",
+        "img": "",
+        "link": ""
     },
     {
         "titulo": "Como estender camiseta no varal: dicas para facilitar!",
@@ -205,7 +225,7 @@ const materias = [
         "link": "https://www.dafiti.com.br/moda/oculos-de-sol-da-moda/"
     },
     {
-        "titulo": "https://www.dafiti.com.br/moda/tipos-de-shorts-femininos/",
+        "titulo": "8 tipos de shorts femininos para experimentar!",
         "img": "http://static.dafiti.com.br/cms/onsite/2025/2025_03_11_18_28_05_capa-tipos-de-shorts-femininos.jpg",
         "link": "https://www.dafiti.com.br/moda/tipos-de-shorts-femininos/"
     },
