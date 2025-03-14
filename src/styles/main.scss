@@ -190,7 +190,7 @@ html {
         @media (max-width: 758px) {
             overflow: auto;
         }
-
+    
         .materia {
             text-decoration: none;
             cursor: pointer;
@@ -199,7 +199,7 @@ html {
             @media (max-width: 758px) {
                 width: 280px;
             }
-
+    
             img {
                 @media (max-width: 758px) {
                     width: 280px;
@@ -211,7 +211,46 @@ html {
                 padding: .5rem 1rem;
                 color: #000000;
             }
-
+    
+            &:hover {
+                transform: scale(1.05);
+                box-shadow: 0.3rem 0.3rem 0.3rem rgba(0, 0, 0, 0.2);
+            }
+        }
+    }
+    
+    .flexTdsMaterias {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+        margin: 1rem 0;
+        flex-wrap: wrap;
+        @media (max-width: 758px) {
+            align-items: center;
+            gap: 3rem;
+        }
+    
+        .materia {
+            text-decoration: none;
+            cursor: pointer;
+            transition-duration: .3s;
+            width: 300px;
+            @media (max-width: 758px) {
+                width: 100%;
+            }
+    
+            img {
+                @media (max-width: 758px) {
+                    width: 100%;
+                }
+            }
+    
+            .titleMateria {
+                font-size: 1.2rem;
+                padding: .5rem 1rem;
+                color: #000000;
+            }
+    
             &:hover {
                 transform: scale(1.05);
                 box-shadow: 0.3rem 0.3rem 0.3rem rgba(0, 0, 0, 0.2);
