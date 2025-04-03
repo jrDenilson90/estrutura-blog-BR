@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function() {
     injectHTMLs(allMaterias);
 
     // Adiciona tabindex aos elementos filhos da classe .dafitiStructureBlog
-    const elements = document.querySelectorAll('.dafitiStructureBlog h1, .dafitiStructureBlog h2, .dafitiStructureBlog h3, .dafitiStructureBlog h4, .dafitiStructureBlog h5, .dafitiStructureBlog p, .dafitiStructureBlog button, .dafitiStructureBlog a, .dafitiStructureBlog img[alt], .dafitiStructureBlog video, .dafitiStructureBlog table td, .dafitiStructureBlog .sr-only, .dafitiStructureBlog .viewAncor');
+    const elements = document.querySelectorAll('.dafitiStructureBlog h1, .dafitiStructureBlog h2, .dafitiStructureBlog h3, .dafitiStructureBlog h4, .dafitiStructureBlog h5, .dafitiStructureBlog p, .dafitiStructureBlog button, .dafitiStructureBlog a, .dafitiStructureBlog img[alt], .dafitiStructureBlog video, .dafitiStructureBlog table td, .dafitiStructureBlog ul li, .dafitiStructureBlog ol li, .dafitiStructureBlog .sr-only, .dafitiStructureBlog .viewAncor');
     let currentIndex = 1;
 
     elements.forEach((element) => {
