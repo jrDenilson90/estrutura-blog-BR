@@ -1,0 +1,73 @@
+Prompt para Gerar HTML de Matéria de Blog
+
+Crie um documento HTML que siga as seguintes diretrizes:
+
+1 - Estrutura Principal:
+O HTML deve ter uma div com a classe bodyBlog como elemento pai.
+Dentro de bodyBlog, deve haver uma div com a classe dafitiStructureBlog.
+
+2 - Links de Fontes:
+Inclua os links para as fontes do Google Fonts dentro da dafitiStructureBlog:
+html
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100..900&display=swap" rel="stylesheet">
+
+3 - Conteúdo:
+Todo o conteúdo textual deve estar dentro de elementos <section>, exceto imagens e vídeos.
+Utilize elementos como <h1>, <h2>, <h3>, <p>, <ul>, <ol>, e <table> dentro das <section> para estruturar o texto.
+As tabelas devem ser inseridas dentro de <section>.
+As imagens e vídeos devem ser inseridos diretamente dentro da dafitiStructureBlog, fora das <section>, e devem ter atributos src e alt (para imagens).
+
+4 - Elementos Finais:
+No final do conteúdo, adicione uma div com a classe viewAncor.
+Abaixo da div, adicione um button com a classe linkAncor que contém um parágrafo <p> com o texto "Ver produtos relacionados".
+
+5 - Exemplo de Estrutura de Conteúdo:
+Título principal dentro de <h1> em uma <section>.
+Parágrafos de texto dentro de <p> em uma <section>.
+Listas de itens dentro de <ul> em uma <section>.
+Tabelas dentro de <table> em uma <section>.
+Imagens e vídeos fora das <section>.
+div e button no final do conteúdo.
+
+Exemplo de HTML:
+html
+<div class="bodyBlog">
+    <div class="dafitiStructureBlog">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100..900&display=swap" rel="stylesheet">
+        <section>
+            <h1>Título da Matéria</h1>
+        </section>
+        <img src="url-da-imagem.jpg" alt="Descrição da imagem">
+        <video src="url-do-video.mp4" controls></video>
+        <section>
+            <p>Parágrafo de introdução.</p>
+            <h2>Subtítulo</h2>
+            <p>Texto adicional.</p>
+            <ul>
+                <li>Item de lista 1</li>
+                <li>Item de lista 2</li>
+            </ul>
+            <table>
+                <tr>
+                    <th>Coluna 1</th>
+                    <th>Coluna 2</th>
+                </tr>
+                <tr>
+                    <td>Dados 1</td>
+                    <td>Dados 2</td>
+                </tr>
+            </table>
+        </section>
+        <img class="imgSmall" src="url-da-imagem-pequena.jpg" alt="Descrição da imagem pequena">
+        <div class="viewAncor"></div>
+        <button class="linkAncor">
+            <p>Ver produtos relacionados</p>
+        </button>
+    </div>
+</div>
+
+Formata o meu HTML abaixo no estilo solicitado:
